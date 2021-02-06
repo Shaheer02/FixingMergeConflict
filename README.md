@@ -1,2 +1,2 @@
 # FixingMergeConflict
-This Edit Was Made On The Local Repository
+This Edit Was Made On The Remote Repository
